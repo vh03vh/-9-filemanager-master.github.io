@@ -1,0 +1,6 @@
+#######################
+# Sulata File Manager #
+#######################
+* This script has been developed by Sulata iSoft - http://www.sulata.com.pk
+* This script is available at https://sulata-file-manager.github.io/
+* Although the script has been tested thoroughly, but the developers will not be responsible for any loss occurred due to errors in the script.
