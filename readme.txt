@@ -8,3 +8,4 @@
 * You MUST change these credentials, they are in the 'filemanager/includes/login.php' file.
 * If you want to exclude any directory from showing in the filemanager, you will need to edit the 'filemanager/includes/config.php' file and add the directory name to the array named $exclude.
 * Although the script has been tested thoroughly, but the developers will not be responsible for any loss occurred due to errors in the script.
+![Capture](https://user-images.githubusercontent.com/101208228/204052695-9b87f2fb-7d68-4d7a-aff5-04fa4be3cc4b.PNG)
